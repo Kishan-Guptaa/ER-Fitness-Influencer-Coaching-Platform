@@ -62,6 +62,7 @@ how are payments recorded?
 
 Author
 
-Kishan Gupta
-B.Tech CSE – Lovely Professional University
+Kishan Gupta-
+
 Web Dev Cohort 2026 🚀
+
